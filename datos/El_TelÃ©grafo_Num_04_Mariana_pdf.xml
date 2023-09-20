@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">El TelÃ©grafo Num 04_Mariana.pdf</title>
+         </titleStmt>
+         <seriesStmt>
+            <title>EL TELEGRAFO </title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main">El TelÃ©grafo Num 04_Mariana.pdf</title><idno type="Transkribus">1544926</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface lrx="2479" lry="3508" ulx="0" uly="0" xml:id="facs_1">
+         <graphic height="3508px" url="59121667.jpg" width="2479px"/>
+         <graphic height="3508px" url="https://files.transkribus.eu/Get?id=CLKPTPSFTLQSYKTQMMLGKNRD&amp;fileType=view" width="2479px"/>
+         <zone points="2237,727 238,727 238,0 1349,0 2237,0" rendition="TextRegion" xml:id="facs_1_r" subtype="heading">
+            <zone points="807,362 852,419 920,473 976,508 1021,532 1080,550 1139,565 1190,567 1240,569 1292,567 1360,560 1447,522 1494,499 1555,459 1588,426 1614,395 1659,353 1648,342 1603,385 1577,416 1546,447 1486,486 1440,509 1356,545 1290,552 1240,554 1191,552 1141,550 1084,536 1027,518 984,495 928,461 862,408 819,353" rendition="Line" xml:id="facs_1_l_2620"/>
+            <zone points="415,606 606,606 606,591 415,591" rendition="Line" xml:id="facs_1_l_2677"/>
+            <zone points="874,614 1577,614 1577,599 874,599" rendition="Line" xml:id="facs_1_l_2682"/>
+            <zone points="1886,630 2073,626 2073,622 2058,622 2059,612 1886,615" rendition="Line" xml:id="facs_1_l_2686"/>
+            <zone points="308,684 688,678 684,678 684,678 684,663 714,678 658,678 308,669" rendition="Line" xml:id="facs_1_l_2658"/>
+            <zone points="888,691 1602,691 1602,691 1602,676 1602,676 888,676" rendition="Line" xml:id="facs_1_l_2668"/>
+            <zone points="1863,691 2165,694 2165,679 1863,676" rendition="Line" xml:id="facs_1_l_2673"/></zone>
+         <zone points="239,743 1235,738 1235,1290 238,1290" rendition="TextRegion" xml:id="facs_1_r_2762" subtype="paragraph">
+            <zone points="292,776 328,776 373,776 417,776 462,776 507,776 552,776 597,776 641,776 686,776 731,773 776,776 821,776 865,773 910,776 955,773 1000,773 1044,770 1089,770 1134,770 1179,770 1224,773 1235,773 1235,758 1224,758 1179,755 1134,755 1089,755 1043,755 999,758 955,758 910,761 865,758 820,761 776,761 731,758 686,761 641,761 597,761 552,761 507,761 462,761 417,761 373,761 328,761 292,761" rendition="Line" xml:id="facs_1_l_2575"/>
+            <zone points="239,827 1226,815 1206,775 441,795 239,763" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+            <zone points="246,866 1221,857 1221,815 1169,812 246,825" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+            <zone points="246,906 620,886 1216,921 1218,849 249,859" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+            <zone points="236,923 283,943 825,938 825,893 797,889 236,906" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+            <zone points="273,970 1221,962 1181,908 1004,893 807,938 273,940" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+            <zone points="244,1009 1226,999 1211,962 244,972" rendition="Line" xml:id="facs_1_tr_1_tl_20"/>
+            <zone points="256,1032 292,1035 337,1032 382,1032 426,1035 471,1032 516,1032 561,1032 606,1032 650,1032 695,1032 740,1030 785,1032 829,1030 874,1030 919,1030 964,1030 1009,1030 1053,1027 1098,1030 1143,1027 1188,1027 1233,1027 1235,1027 1238,1013 1234,1012 1188,1012 1143,1012 1098,1015 1053,1012 1008,1015 964,1015 919,1015 874,1015 829,1015 785,1017 740,1015 695,1017 650,1017 606,1017 561,1017 516,1017 471,1017 426,1020 383,1017 337,1017 292,1020 257,1017" rendition="Line" xml:id="facs_1_l_2578"/>
+            <zone points="256,1068 286,1071 331,1071 376,1071 420,1071 465,1071 510,1068 555,1071 600,1071 644,1068 689,1068 734,1068 779,1065 824,1065 868,1065 913,1065 958,1065 1003,1065 1047,1065 1092,1065 1137,1065 1182,1065 1227,1065 1235,1069 1241,1055 1230,1050 1182,1050 1137,1050 1092,1050 1047,1050 1003,1050 958,1050 913,1050 868,1050 824,1050 779,1050 734,1053 689,1053 643,1053 599,1056 555,1056 510,1053 465,1056 420,1056 376,1056 331,1056 287,1056 257,1053" rendition="Line" xml:id="facs_1_l_2581"/>
+            <zone points="244,1115 1216,1115 1218,1073 246,1076" rendition="Line" xml:id="facs_1_tr_1_tl_23"/>
+            <zone points="251,1162 1221,1152 1221,1115 1142,1110 251,1117" rendition="Line" xml:id="facs_1_tr_1_tl_25"/>
+            <zone points="244,1201 1218,1191 1218,1149 1169,1142 244,1159" rendition="Line" xml:id="facs_1_tr_1_tl_27"/>
+            <zone points="246,1221 1216,1223 1216,1189 1152,1179 246,1196" rendition="Line" xml:id="facs_1_tr_1_tl_29"/>
+            <zone points="251,1265 1216,1258 1216,1223 1172,1218 251,1228" rendition="Line" xml:id="facs_1_tr_1_tl_31"/></zone>
+         <zone points="1235,1290 1235,1451 238,1451 238,1290" rendition="TextRegion" xml:id="facs_1_r_2766" subtype="paragraph">
+            <zone points="281,1364 315,1354 330,1361 389,1354 409,1366 482,1351 537,1361 537,1272 389,1272 381,1280 281,1272" rendition="Line" xml:id="facs_1_tr_1_tl_34"/>
+            <zone points="847,1368 1088,1341 1218,1361 1218,1300 1169,1312 1149,1297 886,1297 847,1317" rendition="Line" xml:id="facs_1_tr_1_tl_35"/>
+            <zone points="249,1415 295,1400 342,1418 428,1405 453,1420 495,1400 529,1425 608,1418 608,1351 519,1368 490,1349 455,1364 249,1359" rendition="Line" xml:id="facs_1_tr_1_tl_39"/>
+            <zone points="918,1413 977,1396 1024,1400 1046,1386 1127,1400 1152,1393 1164,1403 1189,1391 1218,1396 1218,1364 1154,1344 918,1356" rendition="Line" xml:id="facs_1_tr_1_tl_38"/>
+            <zone points="953,1432 1048,1435 1068,1425 1090,1435 1216,1432 1216,1400 1191,1393 1174,1403 1154,1393 1122,1400 1053,1388 1036,1403 994,1393 953,1408" rendition="Line" xml:id="facs_1_tr_1_tl_41"/></zone>
+         <zone points="1235,1451 1235,1695 238,1695 238,1451" rendition="TextRegion" xml:id="facs_1_r_2770" subtype="paragraph">
+            <zone points="303,1521 1194,1514 1172,1430 303,1435" rendition="Line" xml:id="facs_1_tr_1_tl_43"/>
+            <zone points="259,1546 304,1549 349,1549 394,1549 438,1552 483,1552 528,1552 573,1549 618,1552 662,1552 707,1552 752,1552 797,1549 841,1555 886,1552 931,1552 976,1552 1021,1552 1065,1552 1110,1552 1155,1552 1200,1552 1227,1552 1235,1550 1232,1536 1225,1537 1200,1537 1155,1537 1110,1537 1065,1537 1021,1537 976,1537 931,1537 886,1537 842,1540 798,1534 752,1537 707,1537 662,1537 618,1537 573,1534 528,1537 483,1537 439,1537 395,1534 349,1534 304,1534 260,1531" rendition="Line" xml:id="facs_1_l_2584"/>
+            <zone points="246,1597 573,1595 620,1610 655,1592 699,1610 721,1590 785,1595 785,1560 758,1558 610,1570 576,1551 445,1573 246,1560" rendition="Line" xml:id="facs_1_tr_1_tl_46"/>
+            <zone points="239,1634 834,1639 834,1592 549,1607 239,1590" rendition="Line" xml:id="facs_1_tr_1_tl_48"/>
+            <zone points="256,1659 301,1662 346,1659 391,1659 435,1659 480,1656 525,1659 566,1663 615,1662 659,1659 704,1662 749,1662 794,1662 824,1659 823,1644 793,1647 749,1647 704,1647 659,1644 614,1647 566,1648 526,1644 480,1641 435,1644 391,1644 346,1644 301,1647 257,1644" rendition="Line" xml:id="facs_1_tr_1_tl_50"/>
+            <zone points="246,1711 308,1698 714,1703 714,1671 246,1674" rendition="Line" xml:id="facs_1_tr_1_tl_52"/></zone>
+         <zone points="1237,2171 236,2171 236,1695 1237,1695" rendition="TextRegion" xml:id="facs_1_r_3189" subtype="paragraph"/>
+         <zone points="1235,2170 1235,2310 237,2310 237,2170" rendition="TextRegion" xml:id="facs_1_r_2778" subtype="paragraph">
+            <zone points="573,2237 603,2247 637,2235 694,2245 763,2237 775,2250 842,2237 874,2247 874,2154 573,2151" rendition="Line" xml:id="facs_1_tr_1_tl_98"/>
+            <zone points="263,2282 1184,2287 1184,2237 263,2245" rendition="Line" xml:id="facs_1_tr_1_tl_100"/></zone>
+         <zone points="1235,2310 1234,3137 236,3139 237,2310" rendition="TextRegion" xml:id="facs_1_r_2782" subtype="paragraph">
+            <zone points="490,2410 985,2412 985,2355 925,2326 490,2326" rendition="Line" xml:id="facs_1_tr_1_tl_104"/>
+            <zone points="418,2481 1007,2474 1007,2412 418,2417" rendition="Line" xml:id="facs_1_tr_1_tl_106"/>
+            <zone points="628,2515 640,2513 650,2523 677,2528 701,2518 726,2518 751,2528 765,2528 773,2518 785,2525 815,2518 812,2481 795,2476 773,2481 758,2476 741,2483 736,2478 677,2481 669,2474 625,2478" rendition="Line" xml:id="facs_1_tr_1_tl_109"/>
+            <zone points="278,2565 1206,2567 1204,2483 1147,2515 1009,2488 753,2530 276,2493" rendition="Line" xml:id="facs_1_tr_1_tl_111"/>
+            <zone points="239,2604 1208,2599 1208,2570 1103,2557 239,2557" rendition="Line" xml:id="facs_1_tr_1_tl_113"/>
+            <zone points="246,2643 1204,2653 1204,2599 246,2606" rendition="Line" xml:id="facs_1_tr_1_tl_115"/>
+            <zone points="244,2698 303,2688 325,2707 342,2695 374,2710 394,2690 445,2702 500,2693 500,2663 480,2663 441,2641 381,2653 347,2636 305,2653 244,2653" rendition="Line" xml:id="facs_1_tr_1_tl_117"/>
+            <zone points="586,2794 620,2791 665,2813 687,2798 706,2806 738,2789 807,2798 859,2791 859,2739 738,2734 672,2749 586,2742" rendition="Line" xml:id="facs_1_tr_1_tl_120"/>
+            <zone points="250,2827 295,2827 340,2830 385,2830 429,2830 474,2830 519,2830 564,2830 609,2830 653,2830 698,2830 743,2830 788,2830 832,2833 877,2830 922,2830 967,2830 1012,2830 1056,2830 1101,2830 1146,2833 1191,2833 1191,2818 1146,2818 1101,2815 1056,2815 1012,2815 967,2815 922,2815 877,2815 832,2818 789,2815 743,2815 698,2815 653,2815 609,2815 564,2815 519,2815 474,2815 429,2815 385,2815 340,2815 295,2812 250,2812" rendition="Line" xml:id="facs_1_l_2590"/>
+            <zone points="495,2869 540,2869 585,2869 629,2869 674,2869 719,2869 764,2869 809,2869 859,2869 898,2866 943,2869 988,2869 997,2869 997,2854 988,2854 943,2854 898,2851 858,2854 809,2854 764,2854 719,2854 674,2854 629,2854 585,2854 540,2854 495,2854" rendition="Line" xml:id="facs_1_tr_1_tl_123"/>
+            <zone points="251,2919 290,2931 322,2922 337,2934 394,2922 431,2936 455,2924 524,2931 519,2877 428,2880 411,2897 391,2887 381,2894 313,2855 249,2855" rendition="Line" xml:id="facs_1_tr_1_tl_125"/>
+            <zone points="239,2968 288,2958 377,2971 391,2961 465,2963 495,2985 532,2981 529,2929 374,2924 335,2934 322,2922 278,2929 261,2912 236,2919" rendition="Line" xml:id="facs_1_tr_1_tl_128"/>
+            <zone points="266,3003 300,2993 357,3005 369,2995 391,3005 426,2995 436,3005 463,2998 480,3003 477,2963 443,2968 396,2961 377,2971 315,2956 305,2966 298,2958 263,2963" rendition="Line" xml:id="facs_1_tr_1_tl_131"/>
+            <zone points="277,3018 315,3022 367,3024 412,3027 456,3030 483,3030 483,3015 457,3015 413,3012 368,3009 316,3007 279,3003" rendition="Line" xml:id="facs_1_tr_1_tl_134"/>
+            <zone points="261,3064 298,3067 310,3079 332,3069 468,3072 468,3035 357,3035 345,3042 295,3030 261,3037" rendition="Line" xml:id="facs_1_tr_1_tl_137"/>
+            <zone points="274,3098 319,3098 364,3098 409,3101 453,3101 498,3104 534,3103 565,3103 565,3088 533,3088 498,3089 453,3086 409,3086 364,3083 319,3083 274,3083" rendition="Line" xml:id="facs_1_tr_1_tl_140"/>
+            <zone points="751,2922 775,2929 807,2922 832,2936 945,2924 1007,2936 1007,2899 975,2887 918,2880 864,2892 852,2880 834,2887 751,2880" rendition="Line" xml:id="facs_1_tr_1_tl_126"/>
+            <zone points="733,2983 768,2978 780,2966 829,2971 837,2963 898,2973 916,2961 945,2968 970,2961 1009,2971 1009,2936 980,2929 844,2936 805,2922 788,2931 763,2919 733,2924" rendition="Line" xml:id="facs_1_tr_1_tl_129"/>
+            <zone points="763,2993 847,3010 874,3000 1002,3003 1002,2966 987,2963 943,2968 916,2961 898,2973 864,2963 832,2973 822,2963 807,2971 790,2963 763,2971" rendition="Line" xml:id="facs_1_tr_1_tl_132"/>
+            <zone points="751,3052 788,3037 820,3045 876,3035 935,3042 945,3032 965,3042 972,3035 1009,3040 1009,3010 987,3000 967,3008 955,3000 940,3008 933,3000 866,3000 854,3010 810,2998 793,3005 783,2995 751,3003" rendition="Line" xml:id="facs_1_tr_1_tl_135"/>
+            <zone points="770,3079 820,3077 852,3096 970,3074 1048,3094 1204,3094 1206,3032 1179,3022 1117,3035 1100,3017 1078,3040 773,3040" rendition="Line" xml:id="facs_1_tr_1_tl_138"/></zone>
+         <zone points="1235,3139 1235,3491 235,3491 236,3139" rendition="TextRegion" xml:id="facs_1_r_2783" subtype="paragraph">
+            <zone points="512,3234 618,3229 650,3244 684,3232 733,3251 930,3237 930,3170 874,3153 765,3205 657,3200 642,3185 588,3205 554,3170 512,3180" rendition="Line" xml:id="facs_1_tr_1_tl_145"/>
+            <zone points="308,3301 1130,3298 1130,3237 1036,3214 785,3251 544,3246 463,3214 421,3241 308,3232" rendition="Line" xml:id="facs_1_tr_1_tl_147"/>
+            <zone points="396,3350 569,3350 610,3372 844,3345 1026,3362 1026,3313 923,3291 871,3288 825,3318 736,3293 630,3318 593,3293 541,3315 512,3291 396,3298" rendition="Line" xml:id="facs_1_tr_1_tl_149"/>
+            <zone points="273,3401 1184,3401 1184,3333 660,3374 273,3330" rendition="Line" xml:id="facs_1_tr_1_tl_152"/>
+            <zone points="247,3439 274,3439 319,3439 364,3436 409,3439 453,3436 498,3439 543,3439 588,3439 632,3439 677,3439 722,3439 767,3439 812,3439 856,3439 901,3439 946,3436 991,3436 1035,3436 1080,3436 1125,3436 1170,3436 1215,3439 1235,3438 1234,3423 1215,3424 1170,3421 1125,3421 1080,3421 1035,3421 991,3421 946,3421 901,3424 856,3424 812,3424 767,3424 722,3424 677,3424 632,3424 588,3424 543,3424 498,3424 453,3421 409,3424 364,3421 319,3424 274,3424 247,3424" rendition="Line" xml:id="facs_1_l_2602"/>
+            <zone points="235,3475 250,3481 295,3478 340,3478 385,3478 429,3475 474,3475 519,3478 564,3478 609,3478 653,3478 698,3478 743,3481 788,3478 832,3475 877,3478 922,3478 967,3475 1012,3475 1056,3475 1101,3475 1146,3472 1191,3478 1235,3475 1234,3460 1191,3463 1146,3457 1101,3460 1056,3460 1012,3460 967,3460 922,3463 877,3463 832,3460 787,3463 743,3466 698,3463 653,3463 609,3463 564,3463 519,3463 474,3460 428,3460 384,3463 340,3463 295,3463 252,3466 241,3461" rendition="Line" xml:id="facs_1_l_2605"/></zone>
+         <zone points="1235,738 2242,732 2227,3491 1235,3491" rendition="TextRegion" xml:id="facs_1_r_2565" subtype="paragraph">
+            <zone points="1235,773 1247,773 1292,776 1337,776 1382,776 1427,776 1471,776 1516,776 1561,776 1606,776 1650,776 1695,776 1740,779 1785,776 1830,776 1874,776 1919,776 1964,779 2009,776 2054,779 2098,779 2143,779 2188,779 2227,779 2227,764 2188,764 2143,764 2098,764 2054,764 2009,761 1964,764 1919,761 1874,761 1830,761 1785,761 1740,764 1695,761 1650,761 1606,761 1561,761 1516,761 1471,761 1427,761 1382,761 1337,761 1292,761 1247,758 1235,758" rendition="Line" xml:id="facs_1_l_2576"/>
+            <zone points="1243,827 2218,839 2198,788 1243,785" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+            <zone points="1243,869 2215,876 2195,829 1243,827" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+            <zone points="1240,921 2215,925 2215,876 2099,866 1240,869" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+            <zone points="1236,967 2218,965 2195,921 1236,918" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+            <zone points="1243,1002 2215,999 2215,962 2112,950 1243,960" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+            <zone points="1235,1027 1250,1030 1295,1032 1340,1032 1385,1032 1430,1032 1474,1032 1519,1032 1564,1032 1609,1032 1653,1035 1698,1032 1743,1032 1788,1032 1833,1032 1877,1035 1922,1032 1967,1035 2012,1035 2057,1032 2101,1035 2146,1035 2191,1038 2224,1035 2223,1020 2191,1023 2146,1020 2102,1020 2057,1017 2012,1020 1967,1020 1922,1017 1877,1020 1834,1017 1788,1017 1743,1017 1698,1017 1653,1020 1610,1017 1564,1017 1519,1017 1474,1017 1430,1017 1385,1017 1340,1017 1295,1017 1252,1015 1238,1013" rendition="Line" xml:id="facs_1_l_2579"/>
+            <zone points="1235,1069 1247,1074 1292,1074 1337,1074 1382,1074 1427,1074 1471,1077 1516,1074 1561,1077 1606,1077 1650,1077 1695,1074 1740,1077 1785,1077 1830,1077 1874,1077 1919,1077 1964,1077 2009,1077 2054,1074 2098,1077 2143,1077 2143,1062 2099,1062 2054,1059 2009,1062 1964,1062 1919,1062 1874,1062 1830,1062 1785,1062 1740,1062 1695,1059 1650,1062 1606,1062 1561,1062 1516,1059 1471,1062 1428,1059 1382,1059 1337,1059 1292,1059 1250,1059 1241,1055" rendition="Line" xml:id="facs_1_l_2582"/>
+            <zone points="1277,1137 2210,1120 2210,1071 1967,1103 1277,1085" rendition="Line" xml:id="facs_1_tr_1_tl_24"/>
+            <zone points="1233,1181 2215,1179 2195,1120 1388,1142 1233,1117" rendition="Line" xml:id="facs_1_tr_1_tl_26"/>
+            <zone points="1233,1206 2218,1221 2218,1181 2119,1159 1233,1176" rendition="Line" xml:id="facs_1_tr_1_tl_28"/>
+            <zone points="1240,1255 2210,1263 2173,1213 1240,1211" rendition="Line" xml:id="facs_1_tr_1_tl_30"/>
+            <zone points="1233,1302 2215,1300 2191,1260 1233,1253" rendition="Line" xml:id="facs_1_tr_1_tl_32"/>
+            <zone points="1240,1339 2215,1349 2215,1300 1240,1300" rendition="Line" xml:id="facs_1_tr_1_tl_33"/>
+            <zone points="1236,1393 2213,1388 2183,1344 1236,1336" rendition="Line" xml:id="facs_1_tr_1_tl_37"/>
+            <zone points="1233,1432 2215,1435 2215,1391 2129,1383 1233,1398" rendition="Line" xml:id="facs_1_tr_1_tl_40"/>
+            <zone points="1231,1479 2213,1487 2213,1430 2173,1425 1231,1432" rendition="Line" xml:id="facs_1_tr_1_tl_42"/>
+            <zone points="1236,1519 2008,1509 2151,1538 2218,1521 2220,1484 1238,1474" rendition="Line" xml:id="facs_1_tr_1_tl_44"/>
+            <zone points="1235,1550 1241,1549 1286,1549 1331,1549 1376,1549 1421,1549 1465,1549 1510,1549 1555,1549 1600,1549 1645,1549 1689,1549 1734,1549 1779,1549 1824,1549 1868,1549 1913,1549 1958,1546 2003,1549 2048,1549 2060,1549 2060,1534 2048,1534 2003,1534 1958,1531 1913,1534 1868,1534 1824,1534 1779,1534 1734,1534 1689,1534 1645,1534 1600,1534 1555,1534 1510,1534 1465,1534 1421,1534 1376,1534 1331,1534 1286,1534 1239,1534 1232,1536" rendition="Line" xml:id="facs_1_l_2585"/>
+            <zone points="1275,1595 2208,1607 2183,1533 1974,1568 1275,1560" rendition="Line" xml:id="facs_1_tr_1_tl_47"/>
+            <zone points="1233,1647 2208,1642 2208,1607 2156,1597 1482,1615 1233,1578" rendition="Line" xml:id="facs_1_tr_1_tl_49"/>
+            <zone points="1228,1683 2210,1686 2210,1644 2176,1642 1228,1659" rendition="Line" xml:id="facs_1_tr_1_tl_51"/>
+            <zone points="1231,1730 2213,1738 2213,1691 2016,1676 1231,1686" rendition="Line" xml:id="facs_1_tr_1_tl_53"/>
+            <zone points="1233,1775 2215,1779 2215,1733 2154,1728 1233,1740" rendition="Line" xml:id="facs_1_tr_1_tl_55"/>
+            <zone points="1236,1824 2208,1816 2208,1782 2102,1767 1236,1777" rendition="Line" xml:id="facs_1_tr_1_tl_60"/>
+            <zone points="1236,1868 2208,1858 2178,1811 1236,1824" rendition="Line" xml:id="facs_1_tr_1_tl_64"/>
+            <zone points="1228,1898 2205,1900 2208,1861 2082,1848 1231,1871" rendition="Line" xml:id="facs_1_tr_1_tl_68"/>
+            <zone points="1233,1947 2205,1942 2191,1895 1233,1898" rendition="Line" xml:id="facs_1_tr_1_tl_72"/>
+            <zone points="1235,1984 1244,1979 1289,1979 1334,1982 1379,1979 1424,1979 1468,1979 1513,1979 1558,1979 1603,1979 1648,1979 1692,1976 1737,1979 1782,1979 1827,1979 1871,1976 1916,1976 1961,1976 2006,1976 2051,1976 2095,1976 2140,1979 2185,1976 2215,1979 2216,1964 2185,1961 2140,1964 2095,1961 2051,1961 2006,1961 1961,1961 1916,1961 1870,1961 1826,1964 1782,1964 1737,1964 1692,1961 1647,1964 1603,1964 1558,1964 1513,1964 1468,1964 1424,1964 1379,1964 1334,1967 1289,1964 1240,1964 1228,1970" rendition="Line" xml:id="facs_1_l_2588"/>
+            <zone points="1223,2048 2208,2033 2208,1986 2176,1984 1223,1991" rendition="Line" xml:id="facs_1_tr_1_tl_80"/>
+            <zone points="1236,2075 2205,2087 2205,2031 2166,2023 1236,2035" rendition="Line" xml:id="facs_1_tr_1_tl_88"/>
+            <zone points="1233,2119 1287,2124 1304,2117 1319,2127 1327,2119 1364,2117 1376,2127 1383,2122 1415,2127 1415,2087 1388,2085 1378,2075 1364,2090 1356,2082 1334,2082 1319,2070 1304,2085 1282,2080 1268,2087 1250,2072 1233,2072" rendition="Line" xml:id="facs_1_tr_1_tl_92"/>
+            <zone points="1277,2159 1413,2178 2003,2159 2003,2117 1907,2092 1831,2114 1277,2117" rendition="Line" xml:id="facs_1_tr_1_tl_96"/>
+            <zone points="1272,2198 2198,2200 2198,2134 2166,2129 1912,2173 1272,2154" rendition="Line" xml:id="facs_1_tr_1_tl_97"/>
+            <zone points="1241,2233 1286,2236 1331,2239 1376,2239 1421,2239 1465,2236 1510,2236 1555,2236 1600,2236 1645,2233 1689,2236 1734,2236 1779,2236 1824,2236 1868,2236 1913,2233 1958,2236 2003,2233 2048,2236 2092,2233 2137,2236 2180,2238 2221,2256 2227,2242 2183,2223 2138,2221 2092,2218 2048,2221 2003,2218 1958,2221 1913,2218 1868,2221 1824,2221 1779,2221 1734,2221 1690,2221 1645,2218 1600,2221 1555,2221 1510,2221 1464,2221 1420,2224 1376,2224 1331,2224 1287,2221 1242,2218" rendition="Line" xml:id="facs_1_tr_1_tl_99"/>
+            <zone points="1228,2294 2210,2291 2188,2240 1228,2242" rendition="Line" xml:id="facs_1_tr_1_tl_101"/>
+            <zone points="1223,2336 1829,2323 2193,2358 2186,2287 1223,2294" rendition="Line" xml:id="facs_1_tr_1_tl_102"/>
+            <zone points="1228,2385 1871,2373 1871,2331 1829,2323 1228,2338" rendition="Line" xml:id="facs_1_tr_1_tl_103"/>
+            <zone points="1277,2427 2200,2412 2200,2363 2136,2350 1927,2343 1883,2378 1708,2390 1277,2375" rendition="Line" xml:id="facs_1_tr_1_tl_105"/>
+            <zone points="1226,2471 2203,2456 2203,2412 1228,2414" rendition="Line" xml:id="facs_1_tr_1_tl_107"/>
+            <zone points="1223,2520 2205,2508 2205,2456 2154,2449 1223,2469" rendition="Line" xml:id="facs_1_tr_1_tl_108"/>
+            <zone points="1228,2547 2203,2542 2203,2506 2141,2496 1228,2513" rendition="Line" xml:id="facs_1_tr_1_tl_110"/>
+            <zone points="1233,2597 2198,2589 2198,2550 2159,2547 1233,2545" rendition="Line" xml:id="facs_1_tr_1_tl_112"/>
+            <zone points="1223,2626 2198,2629 2161,2584 1223,2597" rendition="Line" xml:id="facs_1_tr_1_tl_114"/>
+            <zone points="1223,2680 2198,2670 2198,2631 2154,2626 1223,2634" rendition="Line" xml:id="facs_1_tr_1_tl_116"/>
+            <zone points="1223,2710 2195,2710 2176,2668 1226,2683" rendition="Line" xml:id="facs_1_tr_1_tl_118"/>
+            <zone points="1223,2766 2200,2762 2200,2707 2139,2702 1223,2717" rendition="Line" xml:id="facs_1_tr_1_tl_119"/>
+            <zone points="1223,2801 2200,2816 2176,2754 1223,2764" rendition="Line" xml:id="facs_1_tr_1_tl_121"/>
+            <zone points="1235,2836 1236,2836 1280,2836 1325,2836 1355,2839 1356,2824 1326,2821 1280,2821 1236,2821 1235,2821" rendition="Line" xml:id="facs_1_l_2591"/>
+            <zone points="1263,2887 2203,2894 2203,2838 2082,2843 2050,2813 1770,2835 1637,2811 1553,2850 1263,2855" rendition="Line" xml:id="facs_1_tr_1_tl_124"/>
+            <zone points="1235,2920 1259,2922 1304,2922 1349,2922 1394,2922 1439,2922 1483,2922 1528,2922 1573,2922 1618,2922 1662,2919 1707,2919 1752,2919 1797,2919 1842,2919 1886,2916 1931,2919 1976,2919 2021,2919 2065,2916 2110,2919 2155,2916 2200,2916 2200,2901 2155,2901 2110,2904 2065,2901 2020,2904 1976,2904 1931,2904 1886,2901 1841,2904 1797,2904 1752,2904 1707,2904 1661,2904 1617,2907 1573,2907 1528,2907 1483,2907 1439,2907 1394,2907 1349,2907 1304,2907 1260,2907 1237,2905" rendition="Line" xml:id="facs_1_l_2594"/>
+            <zone points="1223,2973 2193,2966 2193,2931 2134,2926 1223,2934" rendition="Line" xml:id="facs_1_tr_1_tl_130"/>
+            <zone points="1223,3020 2205,3020 2208,2961 1226,2971" rendition="Line" xml:id="facs_1_tr_1_tl_133"/>
+            <zone points="1235,3048 1265,3051 1310,3051 1355,3051 1400,3048 1444,3051 1489,3051 1534,3051 1579,3051 1624,3048 1668,3048 1713,3048 1758,3045 1803,3045 1848,3045 1892,3042 1937,3045 1982,3045 2027,3048 2071,3045 2116,3048 2161,3048 2206,3045 2205,3030 2161,3033 2116,3033 2071,3030 2027,3033 1982,3030 1937,3030 1892,3027 1847,3030 1803,3030 1758,3030 1713,3033 1668,3033 1624,3033 1579,3036 1534,3036 1489,3036 1445,3036 1400,3033 1355,3036 1310,3036 1266,3036 1236,3033" rendition="Line" xml:id="facs_1_l_2597"/>
+            <zone points="1223,3106 2205,3101 2168,3059 1905,3045 1223,3062" rendition="Line" xml:id="facs_1_tr_1_tl_139"/>
+            <zone points="1244,3135 1277,3134 1322,3134 1367,3134 1412,3134 1456,3134 1501,3134 1546,3134 1591,3134 1636,3134 1680,3134 1725,3131 1770,3131 1815,3131 1859,3131 1904,3131 1949,3134 1994,3134 2039,3131 2083,3128 2128,3131 2173,3131 2203,3134 2204,3119 2174,3116 2128,3116 2083,3113 2038,3116 1994,3119 1949,3119 1904,3116 1859,3116 1815,3116 1770,3116 1725,3116 1680,3119 1636,3119 1591,3119 1546,3119 1501,3119 1456,3119 1412,3119 1367,3119 1322,3119 1277,3119 1243,3120" rendition="Line" xml:id="facs_1_l_2600"/>
+            <zone points="1223,3197 2161,3192 2161,3141 2099,3133 1223,3143" rendition="Line" xml:id="facs_1_tr_1_tl_142"/>
+            <zone points="1268,3229 2200,3224 2200,3163 2055,3195 1268,3185" rendition="Line" xml:id="facs_1_tr_1_tl_144"/>
+            <zone points="1223,3269 2200,3269 2200,3224 1368,3241 1223,3212" rendition="Line" xml:id="facs_1_tr_1_tl_146"/>
+            <zone points="1221,3318 2193,3315 2193,3269 2038,3261 1223,3271" rendition="Line" xml:id="facs_1_tr_1_tl_148"/>
+            <zone points="1223,3360 2198,3360 2198,3320 2082,3310 1223,3315" rendition="Line" xml:id="facs_1_tr_1_tl_150"/>
+            <zone points="1241,3394 1256,3391 1301,3391 1346,3391 1391,3388 1436,3391 1480,3391 1525,3391 1574,3397 1615,3391 1659,3391 1704,3391 1745,3389 1794,3388 1839,3391 1883,3388 1928,3388 1973,3388 2018,3385 2063,3388 2107,3382 2152,3385 2197,3382 2196,3367 2152,3370 2106,3367 2062,3373 2018,3370 1973,3373 1928,3373 1882,3373 1839,3376 1794,3373 1745,3374 1704,3376 1659,3376 1614,3376 1574,3382 1526,3376 1480,3376 1436,3376 1391,3373 1346,3376 1301,3376 1255,3376 1238,3379" rendition="Line" xml:id="facs_1_tr_1_tl_151"/>
+            <zone points="1235,3438 1259,3436 1304,3436 1349,3433 1394,3433 1439,3433 1483,3433 1528,3433 1573,3436 1618,3433 1662,3433 1707,3433 1752,3430 1797,3433 1842,3433 1886,3430 1931,3433 1976,3430 2021,3430 2065,3430 2110,3427 2155,3427 2200,3433 2202,3418 2156,3412 2110,3412 2065,3415 2021,3415 1976,3415 1931,3418 1886,3415 1841,3418 1797,3418 1752,3415 1707,3418 1662,3418 1618,3418 1573,3421 1528,3418 1483,3418 1439,3418 1394,3418 1349,3418 1304,3421 1258,3421 1234,3423" rendition="Line" xml:id="facs_1_l_2603"/>
+            <zone points="1235,3475 1236,3475 1280,3478 1325,3478 1370,3478 1415,3478 1459,3475 1504,3475 1549,3475 1594,3475 1639,3475 1683,3475 1728,3478 1773,3475 1818,3472 1862,3475 1907,3475 1952,3472 1951,3457 1907,3460 1863,3460 1818,3457 1772,3460 1728,3463 1683,3460 1639,3460 1594,3460 1549,3460 1504,3460 1458,3460 1414,3463 1370,3463 1325,3463 1281,3463 1236,3460 1234,3460" rendition="Line" xml:id="facs_1_l_2606"/>
+            <zone points="2031,3483 2048,3480 2055,3488 2075,3480 2087,3488 2097,3483 2112,3497 2124,3495 2131,3502 2144,3500 2161,3485 2176,3488 2176,3438 2161,3441 2144,3433 2075,3443 2070,3438 2060,3443 2031,3438" rendition="Line" xml:id="facs_1_tr_1_tl_155"/></zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+           <pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_r" type="heading">
+               <lb facs="#facs_1_l_2620" n="N001"/>EL TELEGRAFO DE LIMA.
+               <lb facs="#facs_1_l_2677" n="N002"/>INDUSTRIA.]
+               <lb facs="#facs_1_l_2682" n="N003"/>PRO BONO PUBLICO.
+               <lb facs="#facs_1_l_2686" n="N004"/>[LIBERTAD.
+               <lb facs="#facs_1_l_2658" n="N005"/>Nº. SEGUIDO 150.]
+               <lb facs="#facs_1_l_2668" n="N006"/><date>JUEVES, OCTUBRE 4 DE 1827.</date> 
+               <lb facs="#facs_1_l_2673" n="N007"/>[TOMO 4,Nº 4.
+            </ab><ab facs="#facs_1_r_2762" type="paragraph">
+               <lb facs="#facs_1_l_2575" n="N001"/>Este periodico se publica diariamente en la IMPRENTA DE LA
+               <lb facs="#facs_1_tr_1_tl_10" n="N002"/>INSTRUCCION PRIMARIA, Y se entrega en casas de los SS.
+               <lb facs="#facs_1_tr_1_tl_12" n="N003"/>subscriptores por el precio de tres pesos al mes. Se vende en el
+               <lb facs="#facs_1_tr_1_tl_14" n="N004"/>Despacho de la misma Imprenta y en la tienda del S. Dorado,
+               <lb facs="#facs_1_tr_1_tl_16" n="N005"/>calle de Judios, en un real cada pliego.
+               <lb facs="#facs_1_tr_1_tl_18" n="N006"/>Los avisos que no tengan mas que diez renglones se insertaran,
+               <lb facs="#facs_1_tr_1_tl_20" n="N007"/>abonandose un peso por la primera insercion y cuatro reales por las
+               <lb facs="#facs_1_l_2578" n="N008"/>subsecuentes: los que pasen de aquel numero, de convenio con el 
+               <lb facs="#facs_1_l_2581" n="N009"/>Director de la Imprenta. Se advierte que dichos avisos sepondran
+               <lb facs="#facs_1_tr_1_tl_23" n="N010"/>en castellano, ingles, frances, italiano o aleman, a voluntad de
+               <lb facs="#facs_1_tr_1_tl_25" n="N011"/>los interesados; mas deben estar en la Imprenta antes de las tres
+               <lb facs="#facs_1_tr_1_tl_27" n="N012"/>de la tarde del dia anterior al en que sé quieran publicar: de lo
+               <lb facs="#facs_1_tr_1_tl_29" n="N013"/>contrario quedaran para el dia siguiente. Se reciben subscripciones
+               <lb facs="#facs_1_tr_1_tl_31" n="N014"/>en las administraciones de correos de las capitales de departamento.
+            </ab><ab facs="#facs_1_r_2766" type="paragraph">
+               <lb facs="#facs_1_tr_1_tl_34" n="N001"/>FIESTAS
+               <lb facs="#facs_1_tr_1_tl_35" n="N002"/>RELIJIOSAS.
+               <lb facs="#facs_1_tr_1_tl_39" n="N003"/>San Francisco de Asis.
+               <lb facs="#facs_1_tr_1_tl_38" n="N004"/>Jubileo Circular en
+               <lb facs="#facs_1_tr_1_tl_41" n="N005"/>Santo Domingo.
+            </ab><ab facs="#facs_1_r_2770" type="paragraph">
+               <lb facs="#facs_1_tr_1_tl_43" n="N001"/>AFECCIONES ASTRONOMICAS.
+               <lb facs="#facs_1_l_2584" n="N002"/>El sol esta en Libra. Salio a las 5h. 57m. Se pondra a las 6h. 3m.
+               <lb facs="#facs_1_tr_1_tl_46" n="N003"/>Declinacion Austral, 4.g. 7.m. 0.s.
+               <lb facs="#facs_1_tr_1_tl_48" n="N004"/>La luna esta creciendo: tiene 15 dias.
+               <lb facs="#facs_1_tr_1_tl_50" n="N005"/>Oposición a las 9h. 11m. de la noche.
+               <lb facs="#facs_1_tr_1_tl_52" n="N006"/>
+            </ab><ab facs="#facs_1_r_3189" type="paragraph">
+            </ab><ab facs="#facs_1_r_2778" type="paragraph">
+               <lb facs="#facs_1_tr_1_tl_98" n="N001"/>CORREOS.
+               <lb facs="#facs_1_tr_1_tl_100" n="N002"/>El de <rs type="place">Arequipa</rs> sale hoy, a las cinco de la tarde.
+            </ab><ab facs="#facs_1_r_2782" type="paragraph">
+               <lb facs="#facs_1_tr_1_tl_104" n="N001"/>MARITIMA.
+               <lb facs="#facs_1_tr_1_tl_106" n="N002"/><hi><rs type="place">PUERTO DEL CALLAO</rs>.</hi>
+               <lb facs="#facs_1_tr_1_tl_109" n="N003"/>SALIDA.
+               <lb facs="#facs_1_tr_1_tl_111" n="N004"/>Setiembre 2.—Bergantin goleta colombiana Maria,
+               <lb facs="#facs_1_tr_1_tl_113" n="N005"/>su capitan D. <rs type="person">Jose Agustin Cubilla</rs>, para Guaya-
+               <lb facs="#facs_1_tr_1_tl_115" n="N006"/>quil. Pasajero: el teniente de artilleria D. Enri-
+               <lb facs="#facs_1_tr_1_tl_117" n="N007"/>que Pareja.
+               <lb facs="#facs_1_tr_1_tl_120" n="N008"/>MANIFIESTO.
+               <lb facs="#facs_1_l_2590" n="N009"/>Del Bergantin Cadet, de los <rs type="place">Estados Unidos</rs> y <rs type="place">Coquimbo</rs>, consig
+               <lb facs="#facs_1_tr_1_tl_123" n="N010"/>nado a los SS. Huth, Coit y Ca.
+               <lb facs="#facs_1_tr_1_tl_125" n="N011"/>50 cajones jabon,
+               <lb facs="#facs_1_tr_1_tl_128" n="N012"/>244 barrilitos vino,
+               <lb facs="#facs_1_tr_1_tl_131" n="N013"/>8 id mayores,
+               <lb facs="#facs_1_tr_1_tl_134" n="N014"/>2-pipas vino,
+               <lb facs="#facs_1_tr_1_tl_137" n="N015"/>2 barriles id.
+               <lb facs="#facs_1_tr_1_tl_140" n="N016"/>1 cajon de laminas.
+               <lb facs="#facs_1_tr_1_tl_126" n="N017"/>49 cajones vino,
+               <lb facs="#facs_1_tr_1_tl_129" n="N018"/>899 barras cobre,
+               <lb facs="#facs_1_tr_1_tl_132" n="N019"/>1 cajon dinero,
+               <lb facs="#facs_1_tr_1_tl_135" n="N020"/>34 onzas de oro,
+               <lb facs="#facs_1_tr_1_tl_138" n="N021"/>1 cajon piedras de oro y plata.
+            </ab><ab facs="#facs_1_r_2783" type="paragraph">
+               <lb facs="#facs_1_tr_1_tl_145" n="N001"/>CONGRESO.
+               <lb facs="#facs_1_tr_1_tl_147" n="N002"/>SESION DEL DIA 2 DE OCTUBRE.
+               <lb facs="#facs_1_tr_1_tl_149" n="N003"/><hi>2a. Presidencia del Sr. Valdivieso.</hi>
+               <lb facs="#facs_1_tr_1_tl_152" n="N004"/>Abierta la sesion con 61 SS. diputados, y leida
+               <lb facs="#facs_1_l_2602" n="N005"/>el acta del dia anterior, fue aprobada con las indi
+               <lb facs="#facs_1_l_2605" n="N006"/>caciones hechas por los SS. Rodriguez y  Llosa, (D
+            </ab><ab facs="#facs_1_r_2565" type="paragraph">
+               <lb facs="#facs_1_l_2576" n="N001"/>Estevan) de que en la proposicion del Sr. Telleria
+               <lb facs="#facs_1_tr_1_tl_11" n="N002"/>sobre la derogacion de los decretos desde 26 de
+               <lb facs="#facs_1_tr_1_tl_13" n="N003"/>Enero, fueron de dictamen que la comision seña-
+               <lb facs="#facs_1_tr_1_tl_15" n="N004"/>lase los decretos que deben derogarse, respecto a
+               <lb facs="#facs_1_tr_1_tl_17" n="N005"/>estar ya mandado, que lo sean todos los que esten
+               <lb facs="#facs_1_tr_1_tl_19" n="N006"/>en contraposicion con la Constitucion mandada ob-
+               <lb facs="#facs_1_l_2579" n="N007"/>servar; y el Sr. <rs type="person">Yguain</rs>, expuso que la derogacion sea
+               <lb facs="#facs_1_l_2582" n="N008"/>extensiva a los librados desde Febrero de 825.
+               <lb facs="#facs_1_tr_1_tl_24" n="N009"/>Se leyeron dos votos particulares de los SS. Far-
+               <lb facs="#facs_1_tr_1_tl_26" n="N010"/>fan, (D. Marcos) y Loyo: el del primero dice : “Que
+               <lb facs="#facs_1_tr_1_tl_28" n="N011"/>se reconozca la independencia de la Republica
+               <lb facs="#facs_1_tr_1_tl_30" n="N012"/>Bolivia; que oportunamente y a juicio del Congreso,
+               <lb facs="#facs_1_tr_1_tl_32" n="N013"/>se entablen con aquella Republica las relaciones
+               <lb facs="#facs_1_tr_1_tl_33" n="N014"/>convenientes”. El del segundo “La Republica del
+               <lb facs="#facs_1_tr_1_tl_37" n="N015"/>Peru, consecuente a los principios que ha adoptado
+               <lb facs="#facs_1_tr_1_tl_40" n="N016"/>desde su orijen, reconoce la independencia de la
+               <lb facs="#facs_1_tr_1_tl_42" n="N017"/>de Bolivia de toda dominacion extranjera, como de
+               <lb facs="#facs_1_tr_1_tl_44" n="N018"/>los Estados Americanos; y el Poder Ejecutivo opor-
+               <lb facs="#facs_1_l_2585" n="N019"/>tunamente entrara en relaciones con ella.
+               <lb facs="#facs_1_tr_1_tl_47" n="N020"/>Se dio cuenta de dos notas del ministerio de
+               <lb facs="#facs_1_tr_1_tl_49" n="N021"/>Gobierno: la primera consultando el sentido jenuino
+               <lb facs="#facs_1_tr_1_tl_51" n="N022"/>en que deba tomarse la clausula que dice: <hi>den</hi>
+               <lb facs="#facs_1_tr_1_tl_53" n="N023"/><hi>cuenta de su administracion</hi> con refeXrencia a la orden
+               <lb facs="#facs_1_tr_1_tl_55" n="N024"/>que se paso de 29 del mes proximo pasado, sobre
+               <lb facs="#facs_1_tr_1_tl_60" n="N025"/>los ministros de hacienda del pasado Gobierno.
+               <lb facs="#facs_1_tr_1_tl_64" n="N026"/>Se mando pasar a la comision de justicia, con la
+               <lb facs="#facs_1_tr_1_tl_68" n="N027"/>asistencia del Sr. Yguain, que hizo la indicacion.
+               <lb facs="#facs_1_tr_1_tl_72" n="N028"/>La segunda acompañada de la copia del arreglo del
+               <lb facs="#facs_1_l_2588" n="N029"/>ministerio de hacienda, formado a consecuencia de
+               <lb facs="#facs_1_tr_1_tl_80" n="N030"/>lo resuelto por el Congreso el 20 de Agosto; la
+               <lb facs="#facs_1_tr_1_tl_88" n="N031"/>que se mando pasar a la comision principal de
+               <lb facs="#facs_1_tr_1_tl_92" n="N032"/>hacienda.
+               <lb facs="#facs_1_tr_1_tl_96" n="N033"/>Se leyeron tres informes de comisiones.
+               <lb facs="#facs_1_tr_1_tl_97" n="N034"/>Se dio tercera lectura a la proposicion del Sr.
+               <lb facs="#facs_1_tr_1_tl_99" n="N035"/>Rodriguez sobre el restablecimiento del consulado.
+               <lb facs="#facs_1_tr_1_tl_101" n="N036"/>Hablo el Sr. proponente apoyandola, y admitida a
+               <lb facs="#facs_1_tr_1_tl_102" n="N037"/>discusion se mando pasar a las comisiones de cons-
+               <lb facs="#facs_1_tr_1_tl_103" n="N038"/>titucion y principal de hacienda.
+               <lb facs="#facs_1_tr_1_tl_105" n="N039"/>Tambien se leyo una proposicion del Sr. Carta-
+               <lb facs="#facs_1_tr_1_tl_107" n="N040"/>jena que dice: respecto de no haber asistido el
+               <lb facs="#facs_1_tr_1_tl_108" n="N041"/>numero legal de representantes, para la sancion del
+               <lb facs="#facs_1_tr_1_tl_110" n="N042"/>dictamen relativo a la reclamacion de la municipa-
+               <lb facs="#facs_1_tr_1_tl_112" n="N043"/>lidad sobre sus atribuciones constitucionales acerca
+               <lb facs="#facs_1_tr_1_tl_114" n="N044"/>de los ramos de establecimientos publicos, debe
+               <lb facs="#facs_1_tr_1_tl_116" n="N045"/>dicho dictamen volverse a discutir para su sancion
+               <lb facs="#facs_1_tr_1_tl_118" n="N046"/>con el numero competente de diputados. Se hi-
+               <lb facs="#facs_1_tr_1_tl_119" n="N047"/>cieron algunas observaciones, y admitida a discusion,
+               <lb facs="#facs_1_tr_1_tl_121" n="N048"/>despues de varias reflexiones puestas en contra, la
+               <lb facs="#facs_1_l_2591" n="N049"/>retiro.
+               <lb facs="#facs_1_tr_1_tl_124" n="N050"/>Se leyo un informe de la comision de poderes,
+               <lb facs="#facs_1_l_2594" n="N051"/>sobre que al Sr. diputado suplente de Chancay D.
+               <lb facs="#facs_1_tr_1_tl_130" n="N052"/>Juan Manuel Lozano se le haga venir, y fue apro-
+               <lb facs="#facs_1_tr_1_tl_133" n="N053"/>bado. So leyo otro informe de la misma comision,
+               <lb facs="#facs_1_l_2597" n="N054"/>en que expresa, que los poderes del Sr.  Salas, dipu-
+               <lb facs="#facs_1_tr_1_tl_139" n="N055"/>tado por la provincia de Chumbivilcas estan con-
+               <lb facs="#facs_1_l_2600" n="N056"/>formes a la formula mandada observar, y se halla
+               <lb facs="#facs_1_tr_1_tl_142" n="N057"/>habil para sancionar la constitucion. Se aprobo.
+               <lb facs="#facs_1_tr_1_tl_144" n="N058"/>Luego se paso a la lectura del informe de la
+               <lb facs="#facs_1_tr_1_tl_146" n="N059"/>comision de lejislacion sobre la jurisdicion coactiva
+               <lb facs="#facs_1_tr_1_tl_148" n="N060"/>que deben tener los administradores de rentas pu-
+               <lb facs="#facs_1_tr_1_tl_150" n="N061"/>blicas. Lo apoyaron los SS. Telleria, Vidaurre,
+               <lb facs="#facs_1_tr_1_tl_151" n="N062"/>Camporredondo, Yguain, Llosa, (D. Estevan) Cua-
+               <lb facs="#facs_1_l_2603" n="N063"/>dros y Orbegoso; y lo impugnaron los, SS. Carabedo,
+               <lb facs="#facs_1_l_2606" n="N064"/>Farfan, (D. Marcos), Castillo, y Leiva. 
+               <lb facs="#facs_1_tr_1_tl_155" n="N065"/>Declarado. 
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>
